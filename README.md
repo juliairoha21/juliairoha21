@@ -1,0 +1,4 @@
+- 😎 Oi, eu sou @julia_iroha
+- 🕶  Meu email de contato julia.almeida.goes@escola.pr.gov.br
+- 🎱 Eu estou interessada a aprender novas linguagens.
+- 📌 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
